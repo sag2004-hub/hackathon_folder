@@ -1,7 +1,7 @@
 import React from "react";
 import { Router, Routes, Route } from "react-router-dom";
-import BroadcasterSignUp from "./auth/broadCasterSignUp";
 import BroadCasterSignIn from "./auth/BroadCasterSignIn";
+import BroadCasterSignUp from "./auth/BroadCasterSignUp";
 import SplashScreen from "./components/SplachScreen";
 import Promo1 from "./components/promo1";
 import Promo2 from "./components/promo2";
@@ -20,7 +20,7 @@ export default function App() {
   return (
     <Routes>
       <Route path="/" element={<SplashScreen />} />
-      <Route path="/broadcast-signup" element={<BroadcasterSignUp />} />
+      <Route path="/broadcast-signup" element={<BroadCasterSignUp />} />
       <Route path="/broadcaster-signin" element={<BroadCasterSignIn />} />
       <Route path="/promo1" element={<Promo1 />} />
       <Route path="/promo2" element={<Promo2 />} />

@@ -3,7 +3,7 @@ import { useMutation } from "convex/react";
 import { api } from "../../convex/_generated/api";
 import { useNavigate } from "react-router-dom";
 
-export default function BroadcasterSignUp() {
+export default function BroadCasterSignUp() {
   const [form, setForm] = useState({
     channelName: "",
     channelType: "",

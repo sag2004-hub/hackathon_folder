@@ -1,0 +1,15 @@
+[package]
+name = "my_hack"
+version = "1.0.0"
+authors = []
+
+[addresses]
+myDev_addr = "9c8b49bb95408f832bc255e052f86370560cabb7eb15df1344e8c5df960b7ef1"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]

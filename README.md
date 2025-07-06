@@ -131,3 +131,15 @@ Aptos_Hackathon/
 ## 📢 Notes
 - Ensure your Aptos node and wallet are configured for contract interaction.
 - Update addresses and endpoints as needed for your deployment.
+
+---
+
+## 👥 Team & Contact
+- **Sagnik Dutta** - sagnikdutta408@gmail.com
+- **Soham Biswas** - sohambiswas711@gmail.com
+- **Adrija Ghosal** - adrijaghosal05@gmail.com
+
+**GitHub Repository:** [https://github.com/sag2004-hub/hackathon_folder](https://github.com/sag2004-hub/hackathon_folder)
+
+**Wallet Address:** 0x50ee64bd22c7aa65e23c0a023afd57fc8317b68a91d5cf43b92281496dd13bbe
+**Account Address:** 9c8b49bb95408f832bc255e052f86370560cabb7eb15df1344e8c5df960b7ef1
